@@ -10,6 +10,9 @@
   "scripts": {
     "test": "mocha -R mocha-multi --reporter-options nyan=-,json=.results.json"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/traversing-nested-objects.git"
